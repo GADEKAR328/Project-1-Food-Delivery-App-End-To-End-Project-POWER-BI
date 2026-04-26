@@ -2,6 +2,11 @@
 
 This project showcases a comprehensive end-to-end data analytics solution developed using Power BI, focused on analyzing a food delivery application’s operational and sales performance. The objective was to convert raw transactional data into actionable insights that support strategic decision-making, improve customer experience, and optimize business operations.
 
+### 🎥 Interactive Dashboard Demo
+
+👉 Watch the full working dashboard here:
+https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-powerbi-dataanalytics-activity-7448405402108473345-cL9I
+
 ## 🔍 Project Objective
 
 The primary goal of this project was to:
