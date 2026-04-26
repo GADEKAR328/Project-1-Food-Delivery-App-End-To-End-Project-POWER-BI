@@ -120,3 +120,11 @@ Gradual decline towards April (586)
 ## 📌 Conclusion
 
 This project demonstrates my ability to perform end-to-end data analysis, from data cleaning to insight generation and dashboard creation. It reflects my skills in business intelligence, problem-solving, and visualization, making it highly relevant for roles in Data Analytics and Business Analysis.
+
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-powerbi-dataanalytics-activity-7448405402108473345-cL9I">
+    <img src="https://raw.githubusercontent.com/GADEKAR328/Project-1-Food-Delivery-App-End-To-End-Project-POWER-BI/3f27a293fc40a0da0a65cc64b1b58197092be2c9/Omato%20Food%20Delivery%20Project%201.jpg" width="900"/>
+  </a>
+</p>
