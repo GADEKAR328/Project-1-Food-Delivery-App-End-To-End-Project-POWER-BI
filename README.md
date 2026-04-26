@@ -2,10 +2,14 @@
 
 This project showcases a comprehensive end-to-end data analytics solution developed using Power BI, focused on analyzing a food delivery application’s operational and sales performance. The objective was to convert raw transactional data into actionable insights that support strategic decision-making, improve customer experience, and optimize business operations.
 
+---
+
 ### 🎥 Interactive Dashboard Demo
 
 👉 Watch the full working dashboard here:
 https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-powerbi-dataanalytics-activity-7448405402108473345-cL9I
+
+---
 
 ## 🔍 Project Objective
 
@@ -16,6 +20,8 @@ The primary goal of this project was to:
 - Evaluate delivery efficiency and transaction success rates
 - Understand customer segmentation (Gold vs Regular members)
 - Provide insights into payment preferences and operational bottlenecks
+
+---
 
 ## 📁 Dataset Overview
 
@@ -28,12 +34,16 @@ The dataset consists of transactional-level data including:
 - Delivery status (Delivered, Cancelled)
 - Date-wise transaction records
 
+---
+
 ## 🛠️ Tools & Technologies Used
 
 - Power BI – Dashboard creation & data visualization
 - Power Query – Data cleaning, transformation, and shaping
 - DAX (Data Analysis Expressions) – Calculated measures & KPIs
 - Data Modeling – Relationship building for efficient analysis
+
+---
 
 ## 📊 Key Dashboard Features
 
@@ -42,11 +52,15 @@ The dataset consists of transactional-level data including:
 - Total Transactions: 2.75K
 - Average Quantity per Transaction: 5.50
 
+---
+
 ### 👉 These KPIs provide a quick snapshot of business scale and efficiency.
 
 2. 📅 Monthly Order Trends
 - Peak orders observed in February (4.4K) and March (4.3K)
 - Noticeable drop in April (3.1K), indicating possible seasonal or operational impact
+
+---
 
 ### 👉 Helps businesses plan inventory and marketing campaigns based on demand fluctuations.
 
@@ -55,6 +69,8 @@ The dataset consists of transactional-level data including:
 - Followed by Snacks (809 orders) and Desserts (289 orders)
 - Lower contribution from Appetizers (16 orders)
 
+---
+
 ### 👉 Indicates customer preference is heavily inclined toward full meals rather than starters.
 
 4. 🏆 Top-Selling Food Items
@@ -62,11 +78,15 @@ The dataset consists of transactional-level data including:
 - Followed by Butter Chicken (2044) and Chole Bhature (1310)
 - Other strong performers: Masala Dosa, Biryani, Pav Bhaji
 
+---
+
 ### 👉 Suggests strong demand for affordable and popular Indian street/comfort food items.
 
 5. 👥 Customer Segmentation Analysis
 - Gold Members: 1714 transactions
 - Regular Members: 1032 transactions
+
+---
 
 ### 👉 Gold members contribute significantly higher transactions, indicating:
 
@@ -77,11 +97,15 @@ The dataset consists of transactional-level data including:
 - 94.2% orders successfully delivered
 - Only 5.8% cancellations
 
+---
+
 ### 👉 Shows strong operational efficiency but still scope to reduce cancellations further.
 
 7. 💳 Payment Method Insights
 - UPI dominates (1719 transactions)
 - COD (750) and Card (277) lag behind
+
+---
 
 ### 👉 Indicates a clear shift toward digital payments, helping businesses:
 
@@ -92,7 +116,11 @@ The dataset consists of transactional-level data including:
 Peak transactions in February (792)
 Gradual decline towards April (586)
 
+---
+
 ### 👉 Helps identify seasonal trends and plan targeted promotions.
+
+---
 
 ## 💡 Key Business Insights
 - Main Course & Snacks drive majority revenue, focus inventory & marketing here
@@ -103,6 +131,8 @@ Gradual decline towards April (586)
 - Drop in April transactions → requires investigation (seasonality, competition, or service issues)
 - 🎯 Business Impact
 
+---
+
 ## This dashboard enables stakeholders to:
 
 - Make data-driven decisions
@@ -111,15 +141,28 @@ Gradual decline towards April (586)
 - Enhance delivery operations
 - Increase revenue through targeted insights
 
+---
+
 ## 🚀 Project Highlights
 - Built an interactive and user-friendly dashboard
 - Applied real-world business analysis techniques
 - Used data storytelling to simplify complex insights
 - Designed with a recruiter-ready professional layout
 
+---
+
 ## 📌 Conclusion
 
 This project demonstrates my ability to perform end-to-end data analysis, from data cleaning to insight generation and dashboard creation. It reflects my skills in business intelligence, problem-solving, and visualization, making it highly relevant for roles in Data Analytics and Business Analysis.
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yogesh-gadekar-a1231b189  
+- Email: yogeshgadekar141@gmail.com
+
+---
 
 ## 📊 Interactive Dashboard Preview
 
